@@ -1,0 +1,82 @@
+# Ignore Python-related files
+*.pyc
+__pycache__/
+*.pyo
+*.pyc
+*.pyd
+*.pyo
+*.pyz
+*.pyw
+*.py~
+
+
+# Ignore JavaScript-related files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Ignore Visual Studio Code-related files
+.vscode/
+
+# Ignore microservices directory
+/microservices/
+
+# Ignore editor-specific temporary files
+*~
+
+# Ignore OS generated files
+ehthumbs.db
+Thumbs.db
+
+# Additional common files to ignore
+Thumbs.db
+desktop.ini
+
+# Ignore package-lock.json for Node.js projects
+package-lock.json
+
+# Ignore virtual environments for Python projects
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore editor-specific project settings
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore configuration files
+*.config
+.env
+
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore compiled binary files
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Ignore coverage reports
+.coverage
+
+# Ignore OS-specific files
+Icon?
